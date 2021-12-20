@@ -1,0 +1,14 @@
+# Ignore bot assets
+storage/*.webp
+
+# Ignore node modules
+node_modules
+
+# Ignore env files
+.env
+
+# Ignore the log
+log.txt
+
+# Ignore certs
+*.pem
